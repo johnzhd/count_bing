@@ -1,0 +1,4 @@
+count_bing
+==========
+
+"bing"
